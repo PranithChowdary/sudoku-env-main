@@ -1,3 +1,0 @@
-numpy
-Pyside6
-gymnasium
